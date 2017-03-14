@@ -1,0 +1,6 @@
+E:\ćwiczenia drugie\Zad2\Zad2\Zad2\bin\Debug\Zad2.exe.config
+E:\ćwiczenia drugie\Zad2\Zad2\Zad2\bin\Debug\Zad2.exe
+E:\ćwiczenia drugie\Zad2\Zad2\Zad2\bin\Debug\Zad2.pdb
+E:\ćwiczenia drugie\Zad2\Zad2\Zad2\obj\Debug\Zad2.exe
+E:\ćwiczenia drugie\Zad2\Zad2\Zad2\obj\Debug\Zad2.pdb
+E:\ćwiczenia drugie\Zad2\Zad2\Zad2\obj\Debug\Zad2.csprojResolveAssemblyReference.cache

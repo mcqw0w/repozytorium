@@ -1,0 +1,5 @@
+E:\ćwiczenia drugie\Zad1\Zad1\bin\Debug\Zad1.exe.config
+E:\ćwiczenia drugie\Zad1\Zad1\bin\Debug\Zad1.exe
+E:\ćwiczenia drugie\Zad1\Zad1\bin\Debug\Zad1.pdb
+E:\ćwiczenia drugie\Zad1\Zad1\obj\Debug\Zad1.exe
+E:\ćwiczenia drugie\Zad1\Zad1\obj\Debug\Zad1.pdb
