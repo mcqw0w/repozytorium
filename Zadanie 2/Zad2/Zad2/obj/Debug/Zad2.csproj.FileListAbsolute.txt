@@ -1,0 +1,6 @@
+E:\Zadanie 2\Zad2\Zad2\bin\Debug\Zad2.exe.config
+E:\Zadanie 2\Zad2\Zad2\bin\Debug\Zad2.exe
+E:\Zadanie 2\Zad2\Zad2\bin\Debug\Zad2.pdb
+E:\Zadanie 2\Zad2\Zad2\obj\Debug\Zad2.csprojResolveAssemblyReference.cache
+E:\Zadanie 2\Zad2\Zad2\obj\Debug\Zad2.exe
+E:\Zadanie 2\Zad2\Zad2\obj\Debug\Zad2.pdb
